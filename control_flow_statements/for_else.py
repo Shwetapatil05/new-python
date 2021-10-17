@@ -10,7 +10,7 @@
 numbers = [12,19,67,33,89];
 
 for num in numbers:
-  if(num % 6 == 0):
+  if(num % 3 == 0):
     print(num);
     break;
 else:
@@ -31,7 +31,7 @@ else:
 numbers2 = [19,49,67,33,89];
 
 for num in numbers2:
-  if(num % 6 == 0):
+  if(num % 3 == 0):
     print(num);
     break;
 else:

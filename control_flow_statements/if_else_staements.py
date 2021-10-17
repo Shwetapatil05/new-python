@@ -7,8 +7,8 @@
 #     statements;
 #About      : if-else statements
 #-------------------------------------------------------------------------------------
-rcb_score = 187
-csk_score = 153
+rcb_score = 200
+csk_score = 150
 
 print("-------------If-Else Statement----------------");
 if(csk_score != rcb_score):

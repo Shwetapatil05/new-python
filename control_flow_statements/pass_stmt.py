@@ -3,15 +3,15 @@
 # About       : Pass has no functionality. But it is syntactically correct.
 #--------------------------------------------------------------------------------------------
 
-x = [1,2,4,5];
-for i in x:
+y = [1,2,4,5];
+for i in y:
   if(i is 2):
     print(i);
     pass;
   if(i is 2):
     print("Outside Pass statement",i);
 
-for i in x:
+for i in y:
   if(i is 4):
     print(i);
     continue;
